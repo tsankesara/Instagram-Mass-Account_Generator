@@ -10,7 +10,7 @@ pip install http-request-randomizer
 
 *WORK TO BE DONE*
 
-1) Check if proxy is working before rediricting to instagram
+1) Check if proxy is working before rediricting to instagram (Done!)
 
 *NEXT PROJECTS*
 
